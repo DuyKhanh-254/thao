@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.next-build/
+out/
+*.log
+.inspection/
+.DS_Store
+.agents/
+.codex/
+*.tsbuildinfo
+
+# Source materials are preserved locally; publish-ready copies live in public/.
+/Btbb 1.pdf
+/btbb 3.pdf
+/btbb 4.pdf
+/btbb 5.pdf
+/btbb2.docx
+/Bài tập bắt buộc 6.pdf
+/Thông tin cá nhân.pdf
+/ảnh Portfolio.jpg

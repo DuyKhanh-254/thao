@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Xem trước bài tập 2</title>
+  <desc id="desc">Trang tài liệu tìm kiếm và đánh giá thông tin học thuật</desc>
+  <rect width="900" height="1120" fill="#fbf4e8"/>
+  <path d="M0 860C170 790 268 936 454 874c182-61 284-8 446 48v198H0z" fill="#72d6f5"/>
+  <path d="M0 916c184-72 299 77 463 20 184-65 301 20 437 73v111H0z" fill="#2aa7d6"/>
+  <rect x="82" y="70" width="736" height="880" rx="32" fill="#fff" stroke="#cdeaf4" stroke-width="3"/>
+  <text x="132" y="155" fill="#0f6c8e" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">BÀI TẬP 02</text>
+  <text x="132" y="225" fill="#17465a" font-family="Georgia, serif" font-size="45" font-weight="700">Tìm kiếm và đánh giá</text>
+  <text x="132" y="280" fill="#17465a" font-family="Georgia, serif" font-size="45" font-weight="700">thông tin học thuật</text>
+  <text x="132" y="335" fill="#5e7f8d" font-family="Arial, sans-serif" font-size="23">Việc học Tiếng Anh trong kỷ nguyên số</text>
+  <line x1="132" y1="380" x2="768" y2="380" stroke="#cdeaf4" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#17465a">
+    <text x="150" y="435">Nguồn thông tin</text><text x="545" y="435">Độ tin cậy</text>
+    <text x="150" y="505">Google Scholar · Springer</text><text x="608" y="505">01</text>
+    <text x="150" y="575">Wiley Online Library</text><text x="608" y="575">03</text>
+    <text x="150" y="645">VNU Journal of Foreign Studies</text><text x="608" y="645">04</text>
+    <text x="150" y="715">Tạp chí Giáo dục</text><text x="608" y="715">07</text>
+  </g>
+  <g stroke="#dceef4" stroke-width="2"><line x1="132" y1="457" x2="768" y2="457"/><line x1="132" y1="527" x2="768" y2="527"/><line x1="132" y1="597" x2="768" y2="597"/><line x1="132" y1="667" x2="768" y2="667"/><line x1="132" y1="737" x2="768" y2="737"/></g>
+  <rect x="132" y="790" width="250" height="70" rx="35" fill="#e7f8fe"/>
+  <text x="165" y="835" fill="#0f6c8e" font-family="Arial, sans-serif" font-size="22">10 nguồn được đánh giá</text>
+</svg>
